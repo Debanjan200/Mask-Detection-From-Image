@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'facemaskdetectionimage'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE4EB3F26D3C495F93B98F594B9074D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_029D67D369F040F9B531FC1857FCE93E }}
